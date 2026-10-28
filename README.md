@@ -48,7 +48,7 @@ dotnet --version
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/<usuario>/clinica-citas-api.git
+git clone https://github.com/Leito260987/clinicaApi.git
 cd clinica-citas-api
 
 # 2. Restaurar dependencias (descarga Swashbuckle desde NuGet)
